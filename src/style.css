@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    width: 500px;
+    margin: 50px auto;
+}
+.form{
+    display: flex;
+}
+.form input{
+    flex-grow: 1;
+}
